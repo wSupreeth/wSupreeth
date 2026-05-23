@@ -1,5 +1,5 @@
 wsupreeth@creative:~$ whoami
-> UI System Designer · Creative technologist building LLM applications
+> UI/UX System Designer · Creative technologist building LLM applications
 > Designing intelligent interfaces · Multi-agent systems · AI-powered tools
 
 ---
@@ -15,7 +15,6 @@ wsupreeth@creative:~$ whoami
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=api&logoColor=white)
 
 ---
 
