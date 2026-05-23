@@ -1,16 +1,35 @@
-## Hi there 👋
+wsupreeth@creative:~$ whoami
+> UI System Designer · Creative technologist building LLM applications
+> Designing intelligent interfaces · Multi-agent systems · AI-powered tools
 
-<!--
-**wSupreeth/wSupreeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+// stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Python] [React] [TypeScript] [Next.js] [Anthropic Claude] [Node.js]
+[Figma] [Tailwind CSS] [Git] [REST APIs]
+
+---
+
+// projects
+
+◐ **LOOM** — Language Output & Optimization Machine
+   Content pipeline automation system generating 5 platform-ready formats from a single topic.
+   Built with React, Next.js, TypeScript. Real-time generation with optimized outputs.
+   [Live](https://loom-ai-teal.vercel.app/) · [GitHub](https://github.com/wSupreeth/loom)
+
+---
+
+// currently
+
+Exploring multi-agent content systems · Designing AI workflows · Building with Claude API
+
+---
+
+// connect
+
+[LinkedIn](https://www.linkedin.com/in/wsupreeth/) · [Email](mailto:wsupreeth24@gmail.com)
+
+---
+
+*V2.S4 — Building the future of creative technology*
