@@ -39,4 +39,4 @@ Exploring multi-agent content systems · Designing AI workflows · Building with
 
 ---
 
-*V2.S4 — Building the future of creative technology*
+*V2.S4 - Building the future of creative technology*
