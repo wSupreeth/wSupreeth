@@ -29,7 +29,7 @@ wsupreeth@creative:~$ whoami
 
 // currently
 
-Exploring multi-agent content systems · Designing AI workflows · Building with Claude API
+Exploring multi-agent content systems · Designing AI workflows 
 
 ---
 
